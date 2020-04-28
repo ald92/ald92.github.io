@@ -1,0 +1,120 @@
+header {
+    background-image: url(Detroit_Industry_.jpg);
+    padding: 100px;
+    height: auto;
+    width: auto;
+    text-align: center;
+    font-size: 40px;
+   
+   
+}
+nav{    
+    border: 15px solid gray;
+    padding: 15px;
+    background-color: rosybrown;
+    border-width: 20px;
+    text-align: center;
+}
+nav a{
+    color: black;
+    font-size: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    text-decoration: none;
+    padding: 25px;
+    background: linear-gradient(grey,white); 
+
+}
+
+
+body {
+    background-color: greenyellow;
+    margin: 20px;
+}
+
+main {
+    padding: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 1345px;
+    height: 1020px;
+    background-color: black;
+}
+article {
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 1360px;
+    height: 420px;
+    background-image: repeating-linear-gradient(gray, black);
+}
+
+.room {
+    background-color: white;
+    margin: 60px;
+    margin-top: 80px;
+    overflow: hidden;
+    width: 420px;
+    height: 350px;
+}
+
+.closet {
+    background-color: yellow;
+    float: left;
+    margin-left: 50px;
+    margin-right: -40px;
+    margin-top: 30px;
+ 
+}
+#room2 {
+    float: right;
+    margin-top: -410px;
+    margin-right: 560px;
+    height: 350px;
+    width: 240px;
+}
+#room3 {
+    float: right;
+    margin-top: -410px;
+    margin-right: 70px;
+
+}
+#room4 {
+    float: none;
+   
+   
+    height: 350px;
+    width: 240px;
+    height: 350px;
+    width: 240px;
+}
+#room5 {
+    float: right;
+    margin-top: -410px;
+    margin-right: 810px;
+    height: 350px;
+    width: 240px;
+    
+}
+#room6 {
+    float: right;
+    margin-top: -410px;
+    margin-right: 560px;
+    height: 350px;
+    width: 240px;
+
+}
+#room7 {
+ margin-top: -410px;
+ margin-left: 810px;
+    height: 350px;
+    width: 240px;
+}
+
+#room8 {
+    margin-top: -410px;
+    margin-left: 1060px;
+    height: 350px;
+    width: 240px;
+ 
+  
+}
